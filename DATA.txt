@@ -1,0 +1,80 @@
+"Hi"
+What is the time?
+How is the weather today?
+What is the temperature today?
+What year is this?
+"Hello"
+I can't log into my account, what do I do?
+How do I change my shipping address?
+I received a defective product, what should I do?
+How do I cancel my order?
+What are your store hours today?
+Can you tell me the address of your closest location?
+How much does this product cost?
+"What's up"
+"What is your name?"
+What is the return policy for this product?
+How do I track my order?
+Can I change my shipping address for an existing order?
+"I want the customer service number"
+"I want the contact info for customer service"
+"I am extremely dissatisfied with the service I received."
+"I am very unhappy with the quality of the product."
+"I am disappointed with the customer service I received."
+"I am not satisfied with the product and want a refund."
+"I am unhappy with the delivery time and want compensation."
+"I am not happy with the price and want a discount."
+"I am not satisfied with the warranty and want a better one."
+"I am not happy with the installation process and want it redone."
+"I am not satisfied with the customer service and want to speak to a manager."
+"I am not happy with the product and want a replacement."
+"I am not satisfied with the return policy and want a change."
+"I am not happy with the customer service and want a refund."
+"I am not satisfied with the delivery process and want compensation."
+"I am unhappy with the product's performance and want a replacement."
+"I am not happy with the product's design and want a refund."
+"I am not satisfied with the product's warranty and want a change."
+"I am unhappy with the product's installation process and want it redone."
+"I am not satisfied with the customer service and want a better one."
+"I am not happy with the product and want a better one."
+"I am not satisfied with the product and want a better one."
+What are your hours of operation?
+How do I return a product?
+What is your return policy?
+What is your warranty policy?
+What are the specifications of your product?
+What is the price of your product?
+What are the features of your product?
+What is the size of your product?
+What is the weight of your product?
+What is the material used in your product?
+What is the battery life of your product?
+What is the warranty period of your product?
+What is the maximum capacity of your product?
+What is the minimum capacity of your product?
+What are the dimensions of your product?
+What are the shipping options available?
+What are the payment options available?
+What is the return process for your product?
+What is the warranty process for your product?
+What is the support process for your product?
+"I'm not satisfied with the product I received, can you help me with a refund?"
+"I received the wrong item, can you send me the correct one?"
+"The product is defective, can you send me a replacement?"
+"I received my order late, can I get a discount?"
+"I received my order damaged, can you send me a new one?"
+"I received the wrong size, can you send me the correct size?"
+"I want to return the product, can you provide me with the return address?"
+"I want to cancel my order, can you process my refund?"
+"I have a complaint about the customer service I received, can you assist me?"
+"I have a complaint about the product quality, can you help me with a refund?"
+"I am not satisfied with the product, can you offer me a replacement or refund?"
+"I received the product with missing parts, can you send me the missing parts?"
+"I received the product with a manufacturing defect, can you replace it?"
+"I received the product with a wrong color, can you send me the correct color?"
+"I received the product with a wrong size, can you send me the correct size?"
+"I received the product with a wrong model, can you send me the correct model?"
+"I received the product with a wrong quantity, can you send me the correct quantity?"
+"I received the product with a wrong design, can you send me the correct design?"
+"I received the product with a wrong logo, can you send me the correct logo?"
+"I received the product with a wrong packaging, can you send me the correct packaging?"

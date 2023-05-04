@@ -1,2 +1,3 @@
 # Chatbot-for-Customer-Queries
 I created a simple chatbot for a customer queries and responses . I have used TF-IDF (Term frequency-inverse document frequency ) vectorizer to generate responses for certain queries . This Vectorizer is often used in search engines but it works well for some query answering conversations . 
+I have used a very short amount of data but it game me the desired result, you can increase the amount of queries in the DATA.txt file and appropriate responses for the queries in Responses.txt file . This may increase the conversational boundaries of the chatbot. Also you can add speech to text and text to speach code for the input and output to directly convert this into a voice operated chatbot.
